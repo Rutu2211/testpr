@@ -4,6 +4,7 @@ pipeline{
 
 	environment {
 		DOCKERHUB_CREDENTIALS=credentials('DOCKER_HUB_LOGIN')
+
 	}
 
 	stages {
