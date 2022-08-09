@@ -11,4 +11,4 @@ metadata:             # It is of type Dictionary
 spec:                  # It is of type List and Array
   containers:
   - name: flaskapp
-    image: darshanrami/rdrep
+    image: slkrt2211/testrepo
