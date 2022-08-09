@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
       - name: flaskapp
-        image: darshanrami/rdrep
+        image: slkrt2211/testrepo
         ports:
         - containerPort: 3000
   
